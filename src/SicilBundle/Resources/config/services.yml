@@ -1,0 +1,4 @@
+services:
+#    sicil.example:
+#        class: SicilBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
